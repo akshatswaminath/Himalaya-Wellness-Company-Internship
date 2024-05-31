@@ -1,0 +1,17 @@
+{
+  "name": "hdc_pdf_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ai-sdk/google": "^0.0.7",
+    "flash": "^1.1.0",
+    "flask": "^0.2.10"
+  }
+}
